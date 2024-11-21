@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fc927af43cb2c7d4185a0b18df36183d
+guid: 0d1d75c2f091ee64eb56711954598526
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tilemap_forest_0
+      name: Tilemap_forest_black_white_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 783201069d926d64fa72b1536b63f59c
-      internalID: -981988985
+      spriteID: 8039af639289f564da82ac5159bf9930
+      internalID: 1359607925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_1
+      name: Tilemap_forest_black_white_1
       rect:
         serializedVersion: 2
         x: 16
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 316e1619e2c58f343a5374f42721a6db
-      internalID: -151678180
+      spriteID: 16fef4f9f00cf584da3984da16a29d14
+      internalID: 1942307722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_2
+      name: Tilemap_forest_black_white_2
       rect:
         serializedVersion: 2
         x: 32
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8c7025a8c5ae9440b1e14f3de02f738
-      internalID: 789504706
+      spriteID: 7443a93bd90f21a47982663cf66529f8
+      internalID: 857383274
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_3
+      name: Tilemap_forest_black_white_3
       rect:
         serializedVersion: 2
         x: 48
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43ebadede71ce2c4b80454f28e169b5c
-      internalID: 1022216109
+      spriteID: 87c829d0e424be840bde7cadc9caccb0
+      internalID: -978015862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_4
+      name: Tilemap_forest_black_white_4
       rect:
         serializedVersion: 2
         x: 64
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3fb00a52df9fe3498d181c7d90b404a
-      internalID: -1030767267
+      spriteID: da0c3a8ac12416d46b9e6a98d78a5d4f
+      internalID: 397084614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_5
+      name: Tilemap_forest_black_white_5
       rect:
         serializedVersion: 2
         x: 80
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1e9efaac3335044c8ac5911eec7617d
-      internalID: 2052585992
+      spriteID: f6149fe86cb330843b20875bc497e7f1
+      internalID: 1661168678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_6
+      name: Tilemap_forest_black_white_6
       rect:
         serializedVersion: 2
         x: 96
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 436b88381eec5c346a663546003f404c
-      internalID: 293804283
+      spriteID: e34942a7b52c43440bcabd742feb6896
+      internalID: -2059471065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_7
+      name: Tilemap_forest_black_white_7
       rect:
         serializedVersion: 2
         x: 0
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20f19c4d83575c04d8858e146bda27c5
-      internalID: -1458572803
+      spriteID: 8d8816897481c1649b3b6046953acc6f
+      internalID: 1230314587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_8
+      name: Tilemap_forest_black_white_8
       rect:
         serializedVersion: 2
         x: 16
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 284fd47adb66c3148a9f29b7e7370f6d
-      internalID: 308830793
+      spriteID: 88cd710fa1132c7479f8776b1f735399
+      internalID: -463900600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_9
+      name: Tilemap_forest_black_white_9
       rect:
         serializedVersion: 2
         x: 32
@@ -300,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa12be0933bb78a4291b8915800795f3
-      internalID: -1519482990
+      spriteID: 8fe492e6bdc6a9d4aa3efd2326e38e5a
+      internalID: -321767669
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_10
+      name: Tilemap_forest_black_white_10
       rect:
         serializedVersion: 2
         x: 48
@@ -321,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d1340419d2d7ba44a27c524a8ddcf71
-      internalID: 2114526618
+      spriteID: cc308b2cd1e51c0489681a1523c0067c
+      internalID: 1914031843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_11
+      name: Tilemap_forest_black_white_11
       rect:
         serializedVersion: 2
         x: 64
@@ -342,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97a90248318420540916d9e4efe56f2f
-      internalID: -1729830616
+      spriteID: 71bdea58116a9114fbc325bd798b5eb7
+      internalID: -1825170050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_12
+      name: Tilemap_forest_black_white_12
       rect:
         serializedVersion: 2
         x: 80
@@ -363,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f028c3181f4827a46afc9f9d7ee69602
-      internalID: 1858822747
+      spriteID: 3e5eaa6bb16d5fe46bdea8fbfb681777
+      internalID: 272308141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_13
+      name: Tilemap_forest_black_white_13
       rect:
         serializedVersion: 2
         x: 96
@@ -384,14 +384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b76f6f72bdcb5e94f889bb5fc4e4a117
-      internalID: -1592960749
+      spriteID: 76fac3990ebae1c40a9c54b1840ec96d
+      internalID: -2820229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_14
+      name: Tilemap_forest_black_white_14
       rect:
         serializedVersion: 2
         x: 0
@@ -405,14 +405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5eacc7aa19beb9342b084eb15ad9a31b
-      internalID: 2042735103
+      spriteID: 1458e1dfdb1fdf14886a15580602ee66
+      internalID: 1065050552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_15
+      name: Tilemap_forest_black_white_15
       rect:
         serializedVersion: 2
         x: 16
@@ -426,14 +426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 235599a2c0fe02c4fa017da45362f001
-      internalID: 458335320
+      spriteID: 70f31799c91100a45a16c1d66ceb4f05
+      internalID: -2123707552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_16
+      name: Tilemap_forest_black_white_16
       rect:
         serializedVersion: 2
         x: 32
@@ -447,14 +447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0244b2a359224b9429ee5d5bae573be1
-      internalID: 475239981
+      spriteID: 6026ec58a2261fd478c6e68a3b928a68
+      internalID: 1560796740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_17
+      name: Tilemap_forest_black_white_17
       rect:
         serializedVersion: 2
         x: 48
@@ -468,14 +468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7f3f2535a9d715448cc1c6a0b4b495b
-      internalID: 975438744
+      spriteID: c3e75c6902d0aae4fa1bb62bab86b4a5
+      internalID: -126051763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_18
+      name: Tilemap_forest_black_white_18
       rect:
         serializedVersion: 2
         x: 64
@@ -489,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 209596244dec735479476844adfcf5dc
-      internalID: -413921737
+      spriteID: bf50716a4b3a31c468755fc0ea7984f9
+      internalID: 410445659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_19
+      name: Tilemap_forest_black_white_19
       rect:
         serializedVersion: 2
         x: 80
@@ -510,14 +510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ed755ca8db25654cb9c851a789992f8
-      internalID: -811880914
+      spriteID: c441915bc7e5ad14d8514088667c225b
+      internalID: 729349423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_20
+      name: Tilemap_forest_black_white_20
       rect:
         serializedVersion: 2
         x: 96
@@ -531,14 +531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 215643b9e02e1174d915a3b7d8ba511c
-      internalID: -1691574152
+      spriteID: 9d79f792aedd9284995fd55c7b9d28b6
+      internalID: -1962861883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_21
+      name: Tilemap_forest_black_white_21
       rect:
         serializedVersion: 2
         x: 0
@@ -552,14 +552,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82def719a34de2945ae3fcd6b990539f
-      internalID: -1099631752
+      spriteID: f5da2f5dd9548e7499474f0cd743ef91
+      internalID: 380344030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_22
+      name: Tilemap_forest_black_white_22
       rect:
         serializedVersion: 2
         x: 16
@@ -573,14 +573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07b14d6d3fbf33a428018edb4411e7c2
-      internalID: -1462106139
+      spriteID: b242364a52627d0408d259520fb8af1e
+      internalID: -317836438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_23
+      name: Tilemap_forest_black_white_23
       rect:
         serializedVersion: 2
         x: 32
@@ -594,14 +594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b31fd0c152e1c344bfe4184bc954060
-      internalID: 779835321
+      spriteID: 36086f68b92727944967578de86bdf1b
+      internalID: -224310762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_24
+      name: Tilemap_forest_black_white_24
       rect:
         serializedVersion: 2
         x: 48
@@ -615,14 +615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b3a9a751bad2bf40adce5702db0b4e1
-      internalID: 1305509205
+      spriteID: 242cc832cfc438f43af89ac800ee2e08
+      internalID: -317994519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_25
+      name: Tilemap_forest_black_white_25
       rect:
         serializedVersion: 2
         x: 64
@@ -636,14 +636,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99ddd597c8272414e990f33b1dcb1cde
-      internalID: -636342146
+      spriteID: b8ae6aa77c9d25649a099e6f25450286
+      internalID: -345866017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_26
+      name: Tilemap_forest_black_white_26
       rect:
         serializedVersion: 2
         x: 80
@@ -657,14 +657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fab0227591dc1964fb7802818ac13dc6
-      internalID: 1107307777
+      spriteID: 84bfc22fde379c44dae84bbc8e644b09
+      internalID: 765717076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_27
+      name: Tilemap_forest_black_white_27
       rect:
         serializedVersion: 2
         x: 96
@@ -678,14 +678,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8aa10502e4585a24687472f1fcf67320
-      internalID: -1987382233
+      spriteID: cdae6c2b594221049b980285c3b3d383
+      internalID: -2021342832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_28
+      name: Tilemap_forest_black_white_28
       rect:
         serializedVersion: 2
         x: 0
@@ -699,14 +699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47c825f5a150d9e49ba4c196f11d7238
-      internalID: 1582526796
+      spriteID: bf255af59dc395c44806ed1e7c411621
+      internalID: 981718245
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_29
+      name: Tilemap_forest_black_white_29
       rect:
         serializedVersion: 2
         x: 16
@@ -720,14 +720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18064f2f10361224fa954e43824818f8
-      internalID: -512089281
+      spriteID: b49c9cd7ce4642a48b948da7f671865d
+      internalID: -1872881764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_30
+      name: Tilemap_forest_black_white_30
       rect:
         serializedVersion: 2
         x: 32
@@ -741,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01548c55759f03847b1b3037005e56d8
-      internalID: -251524868
+      spriteID: c7515a4c62d71974496c21e396184a59
+      internalID: -713692649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_31
+      name: Tilemap_forest_black_white_31
       rect:
         serializedVersion: 2
         x: 48
@@ -762,14 +762,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63c1a1f25fdec404fb41eec026e19b4d
-      internalID: -621254574
+      spriteID: b45dfb33d2bf90a4488ab20c1fa31718
+      internalID: -1422561641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_32
+      name: Tilemap_forest_black_white_32
       rect:
         serializedVersion: 2
         x: 64
@@ -783,14 +783,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2146bde770053a44a828e5f0c6e70a5a
-      internalID: -2121524533
+      spriteID: 47fcee12ac70e024aa4e0919e3fe99ba
+      internalID: -1994929678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_33
+      name: Tilemap_forest_black_white_33
       rect:
         serializedVersion: 2
         x: 80
@@ -804,14 +804,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ed9730a32f530f46843778f4fb6ad03
-      internalID: -692128863
+      spriteID: 85045e61b3a18574db3b8c781601ad9b
+      internalID: -1850223117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_34
+      name: Tilemap_forest_black_white_34
       rect:
         serializedVersion: 2
         x: 96
@@ -825,14 +825,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f7ab96c3b7fad1438192710454c38d7
-      internalID: -1923077120
+      spriteID: 0a25bf3dc3dac8547b9ac9774d0abab2
+      internalID: 1662832203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_35
+      name: Tilemap_forest_black_white_35
       rect:
         serializedVersion: 2
         x: 0
@@ -846,14 +846,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b4d8550b226d564a8bf9031f2ec1ffd
-      internalID: -917511219
+      spriteID: d771468ed03767c40baf806b7fa2b778
+      internalID: -1398388205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_36
+      name: Tilemap_forest_black_white_36
       rect:
         serializedVersion: 2
         x: 16
@@ -867,14 +867,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d530ee5651f01474aaf29a49a6199d5a
-      internalID: 777416436
+      spriteID: 627850778d187a34589f403a47d38fa2
+      internalID: 2057964555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_37
+      name: Tilemap_forest_black_white_37
       rect:
         serializedVersion: 2
         x: 32
@@ -888,14 +888,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4b24ee643b11994a9a5c636c743be4e
-      internalID: -1416575775
+      spriteID: 607cfd0641880c6449170ca34a4685a0
+      internalID: 1987388394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_38
+      name: Tilemap_forest_black_white_38
       rect:
         serializedVersion: 2
         x: 48
@@ -909,14 +909,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bcbd562f968ecf41919fdf00eaf07e0
-      internalID: -1792898383
+      spriteID: 0d8a9b08f17cfb14eb66409a22f3f5ce
+      internalID: -749691141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_39
+      name: Tilemap_forest_black_white_39
       rect:
         serializedVersion: 2
         x: 64
@@ -930,14 +930,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be2edc5b36833264587e63c0ada201d5
-      internalID: 1484092191
+      spriteID: bb59f32a2ee1a3f4591e4fc3cb39b9ae
+      internalID: 1309511616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_40
+      name: Tilemap_forest_black_white_40
       rect:
         serializedVersion: 2
         x: 80
@@ -951,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a59b13fa6ac3094caea02e6c23e5f95
-      internalID: 569327090
+      spriteID: 476eee44fa6ab9f47a44a627eeccf1a4
+      internalID: 2029484582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_41
+      name: Tilemap_forest_black_white_41
       rect:
         serializedVersion: 2
         x: 96
@@ -972,14 +972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62ae8fbeee2bfec40a09dfd83ebee211
-      internalID: 721382851
+      spriteID: b60d4c173e9b272469f25cc3a2c787e3
+      internalID: -1318264664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_42
+      name: Tilemap_forest_black_white_42
       rect:
         serializedVersion: 2
         x: 0
@@ -993,14 +993,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10a1f3cce19cbbb499119bd5694ebe2c
-      internalID: 1863784960
+      spriteID: b274ffd5ad4b2094c90d556edb9f5029
+      internalID: -1490913228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_43
+      name: Tilemap_forest_black_white_43
       rect:
         serializedVersion: 2
         x: 16
@@ -1014,14 +1014,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df93c560a4a1d494ea815d202a44980f
-      internalID: 1914471463
+      spriteID: a3c48d7e8a1248b4fb6982e85feb31f0
+      internalID: -223366084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_44
+      name: Tilemap_forest_black_white_44
       rect:
         serializedVersion: 2
         x: 32
@@ -1035,14 +1035,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4593ae8e641a4b24ab4123d7a577414a
-      internalID: 1342918266
+      spriteID: e1ed36230b7f2a14ebacde8739376480
+      internalID: 1493402515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_45
+      name: Tilemap_forest_black_white_45
       rect:
         serializedVersion: 2
         x: 48
@@ -1056,14 +1056,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdbfd8e0093c9a541b387ab598a32b22
-      internalID: 1948925200
+      spriteID: 5094c3249d7ed814f9b2ecae807f1ebc
+      internalID: -163753229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_46
+      name: Tilemap_forest_black_white_46
       rect:
         serializedVersion: 2
         x: 64
@@ -1077,14 +1077,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75df9648ac7c22844aee6468cc0e6187
-      internalID: 1904473529
+      spriteID: 2052b61582493214a8daa878cea40730
+      internalID: 1028119276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_47
+      name: Tilemap_forest_black_white_47
       rect:
         serializedVersion: 2
         x: 80
@@ -1098,14 +1098,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d265886671b5704394dbbdea75c3662
-      internalID: -2136984306
+      spriteID: b39df59a3cb897341b471f465ffd7e17
+      internalID: -241085588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_48
+      name: Tilemap_forest_black_white_48
       rect:
         serializedVersion: 2
         x: 96
@@ -1119,8 +1119,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2937444924a34c44be832c9767e0c01
-      internalID: 433186200
+      spriteID: 932e78c4e22e2844ab5dddabb26e29ab
+      internalID: -1060921638
       vertices: []
       indices: 
       edges: []
@@ -1136,55 +1136,55 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Tilemap_forest_0: -981988985
-      Tilemap_forest_1: -151678180
-      Tilemap_forest_10: 2114526618
-      Tilemap_forest_11: -1729830616
-      Tilemap_forest_12: 1858822747
-      Tilemap_forest_13: -1592960749
-      Tilemap_forest_14: 2042735103
-      Tilemap_forest_15: 458335320
-      Tilemap_forest_16: 475239981
-      Tilemap_forest_17: 975438744
-      Tilemap_forest_18: -413921737
-      Tilemap_forest_19: -811880914
-      Tilemap_forest_2: 789504706
-      Tilemap_forest_20: -1691574152
-      Tilemap_forest_21: -1099631752
-      Tilemap_forest_22: -1462106139
-      Tilemap_forest_23: 779835321
-      Tilemap_forest_24: 1305509205
-      Tilemap_forest_25: -636342146
-      Tilemap_forest_26: 1107307777
-      Tilemap_forest_27: -1987382233
-      Tilemap_forest_28: 1582526796
-      Tilemap_forest_29: -512089281
-      Tilemap_forest_3: 1022216109
-      Tilemap_forest_30: -251524868
-      Tilemap_forest_31: -621254574
-      Tilemap_forest_32: -2121524533
-      Tilemap_forest_33: -692128863
-      Tilemap_forest_34: -1923077120
-      Tilemap_forest_35: -917511219
-      Tilemap_forest_36: 777416436
-      Tilemap_forest_37: -1416575775
-      Tilemap_forest_38: -1792898383
-      Tilemap_forest_39: 1484092191
-      Tilemap_forest_4: -1030767267
-      Tilemap_forest_40: 569327090
-      Tilemap_forest_41: 721382851
-      Tilemap_forest_42: 1863784960
-      Tilemap_forest_43: 1914471463
-      Tilemap_forest_44: 1342918266
-      Tilemap_forest_45: 1948925200
-      Tilemap_forest_46: 1904473529
-      Tilemap_forest_47: -2136984306
-      Tilemap_forest_48: 433186200
-      Tilemap_forest_5: 2052585992
-      Tilemap_forest_6: 293804283
-      Tilemap_forest_7: -1458572803
-      Tilemap_forest_8: 308830793
-      Tilemap_forest_9: -1519482990
+      Tilemap_forest_black_white_0: 1359607925
+      Tilemap_forest_black_white_1: 1942307722
+      Tilemap_forest_black_white_10: 1914031843
+      Tilemap_forest_black_white_11: -1825170050
+      Tilemap_forest_black_white_12: 272308141
+      Tilemap_forest_black_white_13: -2820229
+      Tilemap_forest_black_white_14: 1065050552
+      Tilemap_forest_black_white_15: -2123707552
+      Tilemap_forest_black_white_16: 1560796740
+      Tilemap_forest_black_white_17: -126051763
+      Tilemap_forest_black_white_18: 410445659
+      Tilemap_forest_black_white_19: 729349423
+      Tilemap_forest_black_white_2: 857383274
+      Tilemap_forest_black_white_20: -1962861883
+      Tilemap_forest_black_white_21: 380344030
+      Tilemap_forest_black_white_22: -317836438
+      Tilemap_forest_black_white_23: -224310762
+      Tilemap_forest_black_white_24: -317994519
+      Tilemap_forest_black_white_25: -345866017
+      Tilemap_forest_black_white_26: 765717076
+      Tilemap_forest_black_white_27: -2021342832
+      Tilemap_forest_black_white_28: 981718245
+      Tilemap_forest_black_white_29: -1872881764
+      Tilemap_forest_black_white_3: -978015862
+      Tilemap_forest_black_white_30: -713692649
+      Tilemap_forest_black_white_31: -1422561641
+      Tilemap_forest_black_white_32: -1994929678
+      Tilemap_forest_black_white_33: -1850223117
+      Tilemap_forest_black_white_34: 1662832203
+      Tilemap_forest_black_white_35: -1398388205
+      Tilemap_forest_black_white_36: 2057964555
+      Tilemap_forest_black_white_37: 1987388394
+      Tilemap_forest_black_white_38: -749691141
+      Tilemap_forest_black_white_39: 1309511616
+      Tilemap_forest_black_white_4: 397084614
+      Tilemap_forest_black_white_40: 2029484582
+      Tilemap_forest_black_white_41: -1318264664
+      Tilemap_forest_black_white_42: -1490913228
+      Tilemap_forest_black_white_43: -223366084
+      Tilemap_forest_black_white_44: 1493402515
+      Tilemap_forest_black_white_45: -163753229
+      Tilemap_forest_black_white_46: 1028119276
+      Tilemap_forest_black_white_47: -241085588
+      Tilemap_forest_black_white_48: -1060921638
+      Tilemap_forest_black_white_5: 1661168678
+      Tilemap_forest_black_white_6: -2059471065
+      Tilemap_forest_black_white_7: 1230314587
+      Tilemap_forest_black_white_8: -463900600
+      Tilemap_forest_black_white_9: -321767669
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

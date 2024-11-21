@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fc927af43cb2c7d4185a0b18df36183d
+guid: a96b69e312b819c4b9f908a82b363e22
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tilemap_forest_0
+      name: cave02_black_white_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 783201069d926d64fa72b1536b63f59c
-      internalID: -981988985
+      spriteID: db715a83e859ddd41a1a8480ee1817d2
+      internalID: -1504503316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_1
+      name: cave02_black_white_1
       rect:
         serializedVersion: 2
         x: 16
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 316e1619e2c58f343a5374f42721a6db
-      internalID: -151678180
+      spriteID: 02fbf5903c1c22148b6d3e2c2aff3f5d
+      internalID: 2001396241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_2
+      name: cave02_black_white_2
       rect:
         serializedVersion: 2
         x: 32
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8c7025a8c5ae9440b1e14f3de02f738
-      internalID: 789504706
+      spriteID: e37fd0e80ea03bc4981179e0d577d5f2
+      internalID: 1113405702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_3
+      name: cave02_black_white_3
       rect:
         serializedVersion: 2
         x: 48
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43ebadede71ce2c4b80454f28e169b5c
-      internalID: 1022216109
+      spriteID: 14e7b1719c5c3de4a857e26c8021cc63
+      internalID: -748937042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_4
+      name: cave02_black_white_4
       rect:
         serializedVersion: 2
         x: 64
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3fb00a52df9fe3498d181c7d90b404a
-      internalID: -1030767267
+      spriteID: dc632df22be999349a34790ec9fe12db
+      internalID: -645083998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_5
+      name: cave02_black_white_5
       rect:
         serializedVersion: 2
         x: 80
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1e9efaac3335044c8ac5911eec7617d
-      internalID: 2052585992
+      spriteID: 9930869ffce11624a9bac260e4e4626d
+      internalID: 100601078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_6
+      name: cave02_black_white_6
       rect:
         serializedVersion: 2
         x: 96
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 436b88381eec5c346a663546003f404c
-      internalID: 293804283
+      spriteID: 4b45b271bb6ae574a8ec7a6f76892dcd
+      internalID: 2026941346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_7
+      name: cave02_black_white_7
       rect:
         serializedVersion: 2
         x: 0
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20f19c4d83575c04d8858e146bda27c5
-      internalID: -1458572803
+      spriteID: e583acf79f7b69d418c55ba6444312cd
+      internalID: 939178190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_8
+      name: cave02_black_white_8
       rect:
         serializedVersion: 2
         x: 16
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 284fd47adb66c3148a9f29b7e7370f6d
-      internalID: 308830793
+      spriteID: 610de0ec1d655cf4ca805ee4c1fa7de5
+      internalID: 1225418623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_9
+      name: cave02_black_white_9
       rect:
         serializedVersion: 2
         x: 32
@@ -300,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa12be0933bb78a4291b8915800795f3
-      internalID: -1519482990
+      spriteID: 8c935470bc11f484185b88d6f98bfab7
+      internalID: -1258192303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_10
+      name: cave02_black_white_10
       rect:
         serializedVersion: 2
         x: 48
@@ -321,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d1340419d2d7ba44a27c524a8ddcf71
-      internalID: 2114526618
+      spriteID: 8469f999553d81945b7e141e3bfa386d
+      internalID: -1761694385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_11
+      name: cave02_black_white_11
       rect:
         serializedVersion: 2
         x: 64
@@ -342,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97a90248318420540916d9e4efe56f2f
-      internalID: -1729830616
+      spriteID: fcd0dfe7622b9294aabc3bfa356a5c7a
+      internalID: 1959545500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_12
+      name: cave02_black_white_12
       rect:
         serializedVersion: 2
         x: 80
@@ -363,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f028c3181f4827a46afc9f9d7ee69602
-      internalID: 1858822747
+      spriteID: 51be32a2dbaa775439bb04805dae5df3
+      internalID: 317554614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_13
+      name: cave02_black_white_13
       rect:
         serializedVersion: 2
         x: 96
@@ -384,14 +384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b76f6f72bdcb5e94f889bb5fc4e4a117
-      internalID: -1592960749
+      spriteID: 4517f4cc5dc52ec40a9699c3ac83e430
+      internalID: -1426075885
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_14
+      name: cave02_black_white_14
       rect:
         serializedVersion: 2
         x: 0
@@ -405,14 +405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5eacc7aa19beb9342b084eb15ad9a31b
-      internalID: 2042735103
+      spriteID: 1a874638e5c4cba41bb644376d8633b0
+      internalID: 1782438136
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_15
+      name: cave02_black_white_15
       rect:
         serializedVersion: 2
         x: 16
@@ -426,14 +426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 235599a2c0fe02c4fa017da45362f001
-      internalID: 458335320
+      spriteID: 0672d9a7ae6b29a4990ed3a1e784ad74
+      internalID: 1241015713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_16
+      name: cave02_black_white_16
       rect:
         serializedVersion: 2
         x: 32
@@ -447,14 +447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0244b2a359224b9429ee5d5bae573be1
-      internalID: 475239981
+      spriteID: 1cf9f2f79cd9f1f48a16212859e3dfe6
+      internalID: -458241031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_17
+      name: cave02_black_white_17
       rect:
         serializedVersion: 2
         x: 48
@@ -468,14 +468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7f3f2535a9d715448cc1c6a0b4b495b
-      internalID: 975438744
+      spriteID: 782455fb75089ce4cb899d339cfeb8cc
+      internalID: 1978161513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_18
+      name: cave02_black_white_18
       rect:
         serializedVersion: 2
         x: 64
@@ -489,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 209596244dec735479476844adfcf5dc
-      internalID: -413921737
+      spriteID: d95b041070493244089771ddbf9d3c16
+      internalID: 1511391061
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_19
+      name: cave02_black_white_19
       rect:
         serializedVersion: 2
         x: 80
@@ -510,14 +510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ed755ca8db25654cb9c851a789992f8
-      internalID: -811880914
+      spriteID: ab9fca49877f0ea409f1f63e617d3149
+      internalID: 31637244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_20
+      name: cave02_black_white_20
       rect:
         serializedVersion: 2
         x: 96
@@ -531,14 +531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 215643b9e02e1174d915a3b7d8ba511c
-      internalID: -1691574152
+      spriteID: 5d564ea24f606f644991dc9915c6b694
+      internalID: -511377888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_21
+      name: cave02_black_white_21
       rect:
         serializedVersion: 2
         x: 0
@@ -552,14 +552,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82def719a34de2945ae3fcd6b990539f
-      internalID: -1099631752
+      spriteID: 87ab2a11df076ee469b5c5ee614399eb
+      internalID: 485321693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_22
+      name: cave02_black_white_22
       rect:
         serializedVersion: 2
         x: 16
@@ -573,14 +573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07b14d6d3fbf33a428018edb4411e7c2
-      internalID: -1462106139
+      spriteID: b9de9dd447f60d8428431488b3f506d1
+      internalID: 557635314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_23
+      name: cave02_black_white_23
       rect:
         serializedVersion: 2
         x: 32
@@ -594,14 +594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b31fd0c152e1c344bfe4184bc954060
-      internalID: 779835321
+      spriteID: fc46c94fc6252e248a5a3d7b55a58955
+      internalID: 1816382426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_24
+      name: cave02_black_white_24
       rect:
         serializedVersion: 2
         x: 48
@@ -615,14 +615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b3a9a751bad2bf40adce5702db0b4e1
-      internalID: 1305509205
+      spriteID: a8b1c92d21b68984a975d121ae75fa91
+      internalID: 1655320616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_25
+      name: cave02_black_white_25
       rect:
         serializedVersion: 2
         x: 64
@@ -636,14 +636,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99ddd597c8272414e990f33b1dcb1cde
-      internalID: -636342146
+      spriteID: 1ed3e0d9b684d144ab273657f1b052e0
+      internalID: -1994354949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_26
+      name: cave02_black_white_26
       rect:
         serializedVersion: 2
         x: 80
@@ -657,14 +657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fab0227591dc1964fb7802818ac13dc6
-      internalID: 1107307777
+      spriteID: f857d3290504d5a4095b21094d2388c4
+      internalID: 531032431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_27
+      name: cave02_black_white_27
       rect:
         serializedVersion: 2
         x: 96
@@ -678,14 +678,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8aa10502e4585a24687472f1fcf67320
-      internalID: -1987382233
+      spriteID: 3e5fe6c8b687b26478b571a779a803fe
+      internalID: -841692504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_28
+      name: cave02_black_white_28
       rect:
         serializedVersion: 2
         x: 0
@@ -699,14 +699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47c825f5a150d9e49ba4c196f11d7238
-      internalID: 1582526796
+      spriteID: d2da96663d031a545a2e973797c90492
+      internalID: -1508366478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_29
+      name: cave02_black_white_29
       rect:
         serializedVersion: 2
         x: 16
@@ -720,14 +720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18064f2f10361224fa954e43824818f8
-      internalID: -512089281
+      spriteID: 7b695780be01be24693f62784d136e96
+      internalID: -1323551382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_30
+      name: cave02_black_white_30
       rect:
         serializedVersion: 2
         x: 32
@@ -741,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01548c55759f03847b1b3037005e56d8
-      internalID: -251524868
+      spriteID: 8b7701fcf290cd24caa92c5ad5ba8f34
+      internalID: -243792858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_31
+      name: cave02_black_white_31
       rect:
         serializedVersion: 2
         x: 48
@@ -762,14 +762,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63c1a1f25fdec404fb41eec026e19b4d
-      internalID: -621254574
+      spriteID: 21dea54df028bbb43a1e8bd5ee271b43
+      internalID: 849267572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_32
+      name: cave02_black_white_32
       rect:
         serializedVersion: 2
         x: 64
@@ -783,14 +783,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2146bde770053a44a828e5f0c6e70a5a
-      internalID: -2121524533
+      spriteID: 73a7468f29837d245bb4dda40bd51ab9
+      internalID: -1434898496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_33
+      name: cave02_black_white_33
       rect:
         serializedVersion: 2
         x: 80
@@ -804,14 +804,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ed9730a32f530f46843778f4fb6ad03
-      internalID: -692128863
+      spriteID: 3d92e6be35b604c4ba549fb46be13ef2
+      internalID: 184381829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_34
+      name: cave02_black_white_34
       rect:
         serializedVersion: 2
         x: 96
@@ -825,14 +825,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f7ab96c3b7fad1438192710454c38d7
-      internalID: -1923077120
+      spriteID: a35fc79744f3c744a98ef62d5d0b43f6
+      internalID: -1350617727
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_35
+      name: cave02_black_white_35
       rect:
         serializedVersion: 2
         x: 0
@@ -846,14 +846,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b4d8550b226d564a8bf9031f2ec1ffd
-      internalID: -917511219
+      spriteID: 5cdc38975a0820847a65e222d1cad96d
+      internalID: 1539352906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_36
+      name: cave02_black_white_36
       rect:
         serializedVersion: 2
         x: 16
@@ -867,14 +867,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d530ee5651f01474aaf29a49a6199d5a
-      internalID: 777416436
+      spriteID: 59f8da3548c47e4499a35119f821e2e6
+      internalID: 1403922279
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_37
+      name: cave02_black_white_37
       rect:
         serializedVersion: 2
         x: 32
@@ -888,14 +888,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4b24ee643b11994a9a5c636c743be4e
-      internalID: -1416575775
+      spriteID: 8fb6e34001307d2488e35ae136c3eec5
+      internalID: -1863354237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_38
+      name: cave02_black_white_38
       rect:
         serializedVersion: 2
         x: 48
@@ -909,14 +909,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bcbd562f968ecf41919fdf00eaf07e0
-      internalID: -1792898383
+      spriteID: 83ab265cbedc6b043b22c043ccdcafc2
+      internalID: -1836300904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_39
+      name: cave02_black_white_39
       rect:
         serializedVersion: 2
         x: 64
@@ -930,14 +930,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be2edc5b36833264587e63c0ada201d5
-      internalID: 1484092191
+      spriteID: 88ea03f5055296c4fb8fddd4e315536e
+      internalID: 1387650309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_40
+      name: cave02_black_white_40
       rect:
         serializedVersion: 2
         x: 80
@@ -951,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a59b13fa6ac3094caea02e6c23e5f95
-      internalID: 569327090
+      spriteID: 092f2d7c2b013874892ce3e10b5df6fb
+      internalID: 1756708554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_41
+      name: cave02_black_white_41
       rect:
         serializedVersion: 2
         x: 96
@@ -972,14 +972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62ae8fbeee2bfec40a09dfd83ebee211
-      internalID: 721382851
+      spriteID: e314dd6c956348b4692b9a055a3021ab
+      internalID: 1039792644
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_42
+      name: cave02_black_white_42
       rect:
         serializedVersion: 2
         x: 0
@@ -993,14 +993,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10a1f3cce19cbbb499119bd5694ebe2c
-      internalID: 1863784960
+      spriteID: e80f5750d5e11e54e90eb72e59c09538
+      internalID: 1418845864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_43
+      name: cave02_black_white_43
       rect:
         serializedVersion: 2
         x: 16
@@ -1014,14 +1014,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df93c560a4a1d494ea815d202a44980f
-      internalID: 1914471463
+      spriteID: 069501efa3c20544194419fbcfba8fd7
+      internalID: 2037337563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_44
+      name: cave02_black_white_44
       rect:
         serializedVersion: 2
         x: 32
@@ -1035,14 +1035,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4593ae8e641a4b24ab4123d7a577414a
-      internalID: 1342918266
+      spriteID: 4d87c8c0f587d404bbc06e3754411320
+      internalID: -1467080239
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_45
+      name: cave02_black_white_45
       rect:
         serializedVersion: 2
         x: 48
@@ -1056,14 +1056,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdbfd8e0093c9a541b387ab598a32b22
-      internalID: 1948925200
+      spriteID: a70f0628279a2d44f8a046f6a17e0a38
+      internalID: -1565647591
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_46
+      name: cave02_black_white_46
       rect:
         serializedVersion: 2
         x: 64
@@ -1077,14 +1077,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75df9648ac7c22844aee6468cc0e6187
-      internalID: 1904473529
+      spriteID: 9adf04d9ba39f0748a96ea689d7dcb97
+      internalID: -1657711761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_47
+      name: cave02_black_white_47
       rect:
         serializedVersion: 2
         x: 80
@@ -1098,14 +1098,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d265886671b5704394dbbdea75c3662
-      internalID: -2136984306
+      spriteID: b8e427f59723df542b86ddecc4479877
+      internalID: -2063171568
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_forest_48
+      name: cave02_black_white_48
       rect:
         serializedVersion: 2
         x: 96
@@ -1119,8 +1119,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2937444924a34c44be832c9767e0c01
-      internalID: 433186200
+      spriteID: d08a423a27d036d4ea2a0db7552f5899
+      internalID: -1356675032
       vertices: []
       indices: 
       edges: []
@@ -1136,55 +1136,55 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Tilemap_forest_0: -981988985
-      Tilemap_forest_1: -151678180
-      Tilemap_forest_10: 2114526618
-      Tilemap_forest_11: -1729830616
-      Tilemap_forest_12: 1858822747
-      Tilemap_forest_13: -1592960749
-      Tilemap_forest_14: 2042735103
-      Tilemap_forest_15: 458335320
-      Tilemap_forest_16: 475239981
-      Tilemap_forest_17: 975438744
-      Tilemap_forest_18: -413921737
-      Tilemap_forest_19: -811880914
-      Tilemap_forest_2: 789504706
-      Tilemap_forest_20: -1691574152
-      Tilemap_forest_21: -1099631752
-      Tilemap_forest_22: -1462106139
-      Tilemap_forest_23: 779835321
-      Tilemap_forest_24: 1305509205
-      Tilemap_forest_25: -636342146
-      Tilemap_forest_26: 1107307777
-      Tilemap_forest_27: -1987382233
-      Tilemap_forest_28: 1582526796
-      Tilemap_forest_29: -512089281
-      Tilemap_forest_3: 1022216109
-      Tilemap_forest_30: -251524868
-      Tilemap_forest_31: -621254574
-      Tilemap_forest_32: -2121524533
-      Tilemap_forest_33: -692128863
-      Tilemap_forest_34: -1923077120
-      Tilemap_forest_35: -917511219
-      Tilemap_forest_36: 777416436
-      Tilemap_forest_37: -1416575775
-      Tilemap_forest_38: -1792898383
-      Tilemap_forest_39: 1484092191
-      Tilemap_forest_4: -1030767267
-      Tilemap_forest_40: 569327090
-      Tilemap_forest_41: 721382851
-      Tilemap_forest_42: 1863784960
-      Tilemap_forest_43: 1914471463
-      Tilemap_forest_44: 1342918266
-      Tilemap_forest_45: 1948925200
-      Tilemap_forest_46: 1904473529
-      Tilemap_forest_47: -2136984306
-      Tilemap_forest_48: 433186200
-      Tilemap_forest_5: 2052585992
-      Tilemap_forest_6: 293804283
-      Tilemap_forest_7: -1458572803
-      Tilemap_forest_8: 308830793
-      Tilemap_forest_9: -1519482990
+      cave02_black_white_0: -1504503316
+      cave02_black_white_1: 2001396241
+      cave02_black_white_10: -1761694385
+      cave02_black_white_11: 1959545500
+      cave02_black_white_12: 317554614
+      cave02_black_white_13: -1426075885
+      cave02_black_white_14: 1782438136
+      cave02_black_white_15: 1241015713
+      cave02_black_white_16: -458241031
+      cave02_black_white_17: 1978161513
+      cave02_black_white_18: 1511391061
+      cave02_black_white_19: 31637244
+      cave02_black_white_2: 1113405702
+      cave02_black_white_20: -511377888
+      cave02_black_white_21: 485321693
+      cave02_black_white_22: 557635314
+      cave02_black_white_23: 1816382426
+      cave02_black_white_24: 1655320616
+      cave02_black_white_25: -1994354949
+      cave02_black_white_26: 531032431
+      cave02_black_white_27: -841692504
+      cave02_black_white_28: -1508366478
+      cave02_black_white_29: -1323551382
+      cave02_black_white_3: -748937042
+      cave02_black_white_30: -243792858
+      cave02_black_white_31: 849267572
+      cave02_black_white_32: -1434898496
+      cave02_black_white_33: 184381829
+      cave02_black_white_34: -1350617727
+      cave02_black_white_35: 1539352906
+      cave02_black_white_36: 1403922279
+      cave02_black_white_37: -1863354237
+      cave02_black_white_38: -1836300904
+      cave02_black_white_39: 1387650309
+      cave02_black_white_4: -645083998
+      cave02_black_white_40: 1756708554
+      cave02_black_white_41: 1039792644
+      cave02_black_white_42: 1418845864
+      cave02_black_white_43: 2037337563
+      cave02_black_white_44: -1467080239
+      cave02_black_white_45: -1565647591
+      cave02_black_white_46: -1657711761
+      cave02_black_white_47: -2063171568
+      cave02_black_white_48: -1356675032
+      cave02_black_white_5: 100601078
+      cave02_black_white_6: 2026941346
+      cave02_black_white_7: 939178190
+      cave02_black_white_8: 1225418623
+      cave02_black_white_9: -1258192303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
