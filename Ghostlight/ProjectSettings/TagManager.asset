@@ -7,6 +7,10 @@ TagManager:
   - Checkpoint
   - KillBox
   - Pushable
+  - memoryLight
+  - key
+  - Interactable
+  - end
   layers:
   - Default
   - TransparentFX
