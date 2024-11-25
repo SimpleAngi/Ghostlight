@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: graveyard02_black_white 1_0
+      name: graveyard02_black_white_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efdaccad091769c49a841d1ec480e410
-      internalID: -1565409369
+      spriteID: 0bd1295f0040c2e4683fd1da212d9284
+      internalID: -1722392020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_1
+      name: graveyard02_black_white_1
       rect:
         serializedVersion: 2
         x: 16
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b04478d84ea1054cb9b96e00737d576
-      internalID: -1652512173
+      spriteID: 948124001e6e51c44bac3ab65ef68ab3
+      internalID: 935351637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_2
+      name: graveyard02_black_white_2
       rect:
         serializedVersion: 2
         x: 32
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b73a6c0f7301084db91ae589c7d48f6
-      internalID: 1615168405
+      spriteID: b127c7fce90141847aabdc1d5e49b409
+      internalID: 1764644231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_3
+      name: graveyard02_black_white_3
       rect:
         serializedVersion: 2
         x: 48
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69f612a2d08a6d5469d15f1ef350e48e
-      internalID: 718693458
+      spriteID: 0acec5c6bd9db334492439c03e0a9384
+      internalID: -1871247924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_4
+      name: graveyard02_black_white_4
       rect:
         serializedVersion: 2
         x: 64
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1772cf6e545fe124291f4862d9f523a5
-      internalID: 1023180191
+      spriteID: 433e29bc9012fd942bfe8cc81926ed21
+      internalID: -676346706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_5
+      name: graveyard02_black_white_5
       rect:
         serializedVersion: 2
         x: 80
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 878c1c597a52b4f4e83d9af6fcb2064e
-      internalID: -199369002
+      spriteID: 3a01dfe0b809e6040acfaafa0c7334a2
+      internalID: -1900589428
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_6
+      name: graveyard02_black_white_6
       rect:
         serializedVersion: 2
         x: 96
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abc9c3ede6726a3459f7daa63ab9ff5e
-      internalID: 236779654
+      spriteID: be1a30d52265a6f42b99e33a4e41ed86
+      internalID: -363278725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_7
+      name: graveyard02_black_white_7
       rect:
         serializedVersion: 2
         x: 0
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef7d8f080a327d64c9111f90748d7d58
-      internalID: 367391149
+      spriteID: 6a3dc0bdf8ed9f445bf0ece4650849b1
+      internalID: 1097976110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_8
+      name: graveyard02_black_white_8
       rect:
         serializedVersion: 2
         x: 16
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a75ea213bc8a9db48b1ef3802fa1b051
-      internalID: 1505589899
+      spriteID: aeb6f97f28d6b644db9d669af184b80b
+      internalID: -1093782234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_9
+      name: graveyard02_black_white_9
       rect:
         serializedVersion: 2
         x: 32
@@ -300,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e4023ff127e03c469ede8d4a5c721c4
-      internalID: 828014254
+      spriteID: 8a1cf205aa056774ebbacfe9f8100d0c
+      internalID: 1860594107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_10
+      name: graveyard02_black_white_10
       rect:
         serializedVersion: 2
         x: 48
@@ -321,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8289e05f18cd9f4380beabca3797071
-      internalID: -1678222866
+      spriteID: 8c93d498890b601429b715c19cb7f5cb
+      internalID: -66981837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_11
+      name: graveyard02_black_white_11
       rect:
         serializedVersion: 2
         x: 64
@@ -342,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2409a0866022dcf46bd5207c144fbcaf
-      internalID: -816750829
+      spriteID: 4333f648ed8708140b26cd4b6d0f1914
+      internalID: -1827462324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_12
+      name: graveyard02_black_white_12
       rect:
         serializedVersion: 2
         x: 80
@@ -363,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5d2b0dc81d906b4db341bb985d5f0ef
-      internalID: 1597268509
+      spriteID: d64f2d5c4dbbb5b4296301647d285174
+      internalID: 1842216568
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_13
+      name: graveyard02_black_white_13
       rect:
         serializedVersion: 2
         x: 96
@@ -384,14 +384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 364d4ca4a4ff3904b9dcfcf939e269c6
-      internalID: 1284246617
+      spriteID: dda0c201b059fb54bb6f749262531ad5
+      internalID: -1646160805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_14
+      name: graveyard02_black_white_14
       rect:
         serializedVersion: 2
         x: 0
@@ -405,14 +405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33058cc3baa036143a660e732b936180
-      internalID: -213677231
+      spriteID: f71b6d45208becb49a1f984dcacf96ee
+      internalID: -391056728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_15
+      name: graveyard02_black_white_15
       rect:
         serializedVersion: 2
         x: 16
@@ -426,14 +426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44f767f07c4c090488d7ad1509ead8c1
-      internalID: -365195645
+      spriteID: dd5f04dfec4943d45befcad1f88cd39d
+      internalID: -1982368343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_16
+      name: graveyard02_black_white_16
       rect:
         serializedVersion: 2
         x: 32
@@ -447,14 +447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81d3a69b7850d524eae81d12d9e05055
-      internalID: -1485502748
+      spriteID: 7c327f7a9a5937f44ba3c8eba2e49dd8
+      internalID: -1830999284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_17
+      name: graveyard02_black_white_17
       rect:
         serializedVersion: 2
         x: 48
@@ -468,14 +468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f440eac69d22034494987e0428d1c6f
-      internalID: -1415283581
+      spriteID: 67207d00293a5294daea70076d900cd1
+      internalID: -1827971637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_18
+      name: graveyard02_black_white_18
       rect:
         serializedVersion: 2
         x: 64
@@ -489,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf7f7bb7744f5fe49a3b08a807212b80
-      internalID: 62781709
+      spriteID: 3e6e0d6ca3dc9d044878b903afb13dc6
+      internalID: 1841011971
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_19
+      name: graveyard02_black_white_19
       rect:
         serializedVersion: 2
         x: 80
@@ -510,14 +510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cdafc3c57da35e47810ae66fafa76a7
-      internalID: 1330797480
+      spriteID: 0ef1e226d248a194aba0c08e3bacab17
+      internalID: -34392956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_20
+      name: graveyard02_black_white_20
       rect:
         serializedVersion: 2
         x: 96
@@ -531,14 +531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7eeb73518dd138a4d89aef49f93cd780
-      internalID: -1515382371
+      spriteID: e44ad8de8f8aa9548ad2c4d412851b4d
+      internalID: -743490905
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_21
+      name: graveyard02_black_white_21
       rect:
         serializedVersion: 2
         x: 0
@@ -552,14 +552,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35d6ea7907cfd7c4a91bfb4c5924e75d
-      internalID: 1228687128
+      spriteID: a5afcb3afd4008c4b857ec16209f74cf
+      internalID: 1500678776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_22
+      name: graveyard02_black_white_22
       rect:
         serializedVersion: 2
         x: 16
@@ -573,14 +573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b732ee2ecb4e0704b99cd3fcc0199096
-      internalID: 1786160128
+      spriteID: baae27374a40bfc45be0e02006193292
+      internalID: 1691135122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_23
+      name: graveyard02_black_white_23
       rect:
         serializedVersion: 2
         x: 32
@@ -594,14 +594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04e60d4ca1bf298448b1d6f5793c41c1
-      internalID: -239072375
+      spriteID: fcb9de26dd2ef374197eb21013e3f9f7
+      internalID: -420274086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_24
+      name: graveyard02_black_white_24
       rect:
         serializedVersion: 2
         x: 48
@@ -615,14 +615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 292e0359b5e35d046925c38e91653b9c
-      internalID: 1370556150
+      spriteID: 31d8bcd3824002b47aee57f54417492c
+      internalID: 1537462304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_25
+      name: graveyard02_black_white_25
       rect:
         serializedVersion: 2
         x: 64
@@ -636,14 +636,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fcfa31af199503640a76689510d6c5b8
-      internalID: 1264945219
+      spriteID: c21a2aa292a07d14c9ce8610d20584f4
+      internalID: 874183428
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_26
+      name: graveyard02_black_white_26
       rect:
         serializedVersion: 2
         x: 80
@@ -657,14 +657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56d5db9e69ef05a4781141496636e05f
-      internalID: 459517498
+      spriteID: 4a73c8ccd04bdfc4789a3ba9c70e634b
+      internalID: -1287820314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_27
+      name: graveyard02_black_white_27
       rect:
         serializedVersion: 2
         x: 96
@@ -678,14 +678,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32095ebf62816874993eaa42dcf6c164
-      internalID: -1517878615
+      spriteID: b4ee7b889dd807645a6253b98dd75247
+      internalID: -1775763033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_28
+      name: graveyard02_black_white_28
       rect:
         serializedVersion: 2
         x: 0
@@ -699,14 +699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e71f2942cbd08347a268aee6445daf4
-      internalID: 1574602047
+      spriteID: fa4f72a58e7d9e34796fb95deb1de390
+      internalID: -2064314490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_29
+      name: graveyard02_black_white_29
       rect:
         serializedVersion: 2
         x: 16
@@ -720,14 +720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ded9b4caf2442f24faea7f568e2981b4
-      internalID: 1124675749
+      spriteID: 9abe2c6b3249488419caa036f2d6ecc3
+      internalID: 472525260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_30
+      name: graveyard02_black_white_30
       rect:
         serializedVersion: 2
         x: 32
@@ -741,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26d798dffb07abf4a9235306b0fe1b4f
-      internalID: -1715004844
+      spriteID: 35d663b1090c4744aabdfd5b997f2c04
+      internalID: 261165444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_31
+      name: graveyard02_black_white_31
       rect:
         serializedVersion: 2
         x: 48
@@ -762,14 +762,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46f9de277e7509647b998f24e0193f35
-      internalID: 1657657838
+      spriteID: 81a3807488dc2a840bee65406a648bc6
+      internalID: -630851098
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_32
+      name: graveyard02_black_white_32
       rect:
         serializedVersion: 2
         x: 64
@@ -783,14 +783,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99b9050b83db5b74cb19b9159640f3a9
-      internalID: 1748974536
+      spriteID: d9262ec5e2856e94a95e88fd652655e4
+      internalID: -1318962325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_33
+      name: graveyard02_black_white_33
       rect:
         serializedVersion: 2
         x: 80
@@ -804,14 +804,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b557e0703fb35d4282a33f17be8c213
-      internalID: -277917312
+      spriteID: 688c26309a3ca9d4d884b3e455377070
+      internalID: -1690430997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_34
+      name: graveyard02_black_white_34
       rect:
         serializedVersion: 2
         x: 96
@@ -825,14 +825,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22cd5934bd5f4c2479ef35b83055d518
-      internalID: -2046239311
+      spriteID: a84e55ccc54062d46afb5789c9a8d6f6
+      internalID: 474793596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_35
+      name: graveyard02_black_white_35
       rect:
         serializedVersion: 2
         x: 0
@@ -846,14 +846,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86a8ee7e2deb2ab44ae244d2218abc9e
-      internalID: 205046764
+      spriteID: d6f91d916f350fd4eb64a0ee235cfa45
+      internalID: 941080795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_36
+      name: graveyard02_black_white_36
       rect:
         serializedVersion: 2
         x: 16
@@ -867,14 +867,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05e3fb7109d365e44ba607da0a8e7d2c
-      internalID: -1738502396
+      spriteID: f03cb2f6d417fbd4bb815223c5db081e
+      internalID: 596109685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_37
+      name: graveyard02_black_white_37
       rect:
         serializedVersion: 2
         x: 32
@@ -888,14 +888,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eafec841ced763741ab1139bc0b77a6f
-      internalID: -1093402949
+      spriteID: 4408abd68780d364c845bf26bf7d9c27
+      internalID: -763457493
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_38
+      name: graveyard02_black_white_38
       rect:
         serializedVersion: 2
         x: 48
@@ -909,14 +909,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6310c26e1f756314c93728cd832e8f78
-      internalID: -258995157
+      spriteID: f1f775f9d37ce424ba7ff3a6a12b8c00
+      internalID: -1886030269
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_39
+      name: graveyard02_black_white_39
       rect:
         serializedVersion: 2
         x: 64
@@ -930,14 +930,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d653332ee61d4184ca05660128835593
-      internalID: 435368233
+      spriteID: 8f82d5c5c4481a046978b057d0a8fe3b
+      internalID: -1971418073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_40
+      name: graveyard02_black_white_40
       rect:
         serializedVersion: 2
         x: 80
@@ -951,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91798dcf9c9bda64a99ae53c698d6d1c
-      internalID: 1660991704
+      spriteID: 824d00e0c3fd4ef4e8059685e0de0f8f
+      internalID: 1775217452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_41
+      name: graveyard02_black_white_41
       rect:
         serializedVersion: 2
         x: 96
@@ -972,14 +972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a459f13a9091a3f44b0aec93361765c1
-      internalID: -551089188
+      spriteID: 9a745432960895a4d86acda9b9a98b1b
+      internalID: 1783259350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_42
+      name: graveyard02_black_white_42
       rect:
         serializedVersion: 2
         x: 0
@@ -993,14 +993,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e943a507bbe1484aac60b3236e8a8f9
-      internalID: 1022265331
+      spriteID: d0e80726bfed8f34d91e783fd657cb4e
+      internalID: -484759514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_43
+      name: graveyard02_black_white_43
       rect:
         serializedVersion: 2
         x: 16
@@ -1014,14 +1014,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a601e4914e11941458965d4517de437d
-      internalID: -113650626
+      spriteID: b2ededde304177e4b8fd5ffdf845a9a2
+      internalID: 332644036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_44
+      name: graveyard02_black_white_44
       rect:
         serializedVersion: 2
         x: 32
@@ -1035,14 +1035,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47b168827a162f54ba85ee6f150cff51
-      internalID: 684745613
+      spriteID: 4774d6d88cff3704ba6fcbc23c8c059d
+      internalID: 1400405480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_45
+      name: graveyard02_black_white_45
       rect:
         serializedVersion: 2
         x: 48
@@ -1056,14 +1056,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b1e7a6de9121ee4995b539b834f5c28
-      internalID: 820549694
+      spriteID: 1fd5467fbac6ecb4e9d6d5078c0d2a52
+      internalID: -1999801528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_46
+      name: graveyard02_black_white_46
       rect:
         serializedVersion: 2
         x: 64
@@ -1077,14 +1077,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c942a01f6d185de47bda41733e6d3df3
-      internalID: 379493858
+      spriteID: 7263055c3df1b334b9544ffd715fd011
+      internalID: 2140211296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_47
+      name: graveyard02_black_white_47
       rect:
         serializedVersion: 2
         x: 80
@@ -1098,14 +1098,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b741a6efbdfe07c48a6434401127cec2
-      internalID: -812011619
+      spriteID: 6469129d679833e4ab001c0296f338bf
+      internalID: -193195821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: graveyard02_black_white 1_48
+      name: graveyard02_black_white_48
       rect:
         serializedVersion: 2
         x: 96
@@ -1119,8 +1119,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 511979b5a257b524a876d91d139ef28b
-      internalID: 360686144
+      spriteID: b7875e1eff6ae464a9aef666ac700c51
+      internalID: -556568360
       vertices: []
       indices: 
       edges: []
@@ -1136,55 +1136,55 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      graveyard02_black_white 1_0: -1565409369
-      graveyard02_black_white 1_1: -1652512173
-      graveyard02_black_white 1_10: -1678222866
-      graveyard02_black_white 1_11: -816750829
-      graveyard02_black_white 1_12: 1597268509
-      graveyard02_black_white 1_13: 1284246617
-      graveyard02_black_white 1_14: -213677231
-      graveyard02_black_white 1_15: -365195645
-      graveyard02_black_white 1_16: -1485502748
-      graveyard02_black_white 1_17: -1415283581
-      graveyard02_black_white 1_18: 62781709
-      graveyard02_black_white 1_19: 1330797480
-      graveyard02_black_white 1_2: 1615168405
-      graveyard02_black_white 1_20: -1515382371
-      graveyard02_black_white 1_21: 1228687128
-      graveyard02_black_white 1_22: 1786160128
-      graveyard02_black_white 1_23: -239072375
-      graveyard02_black_white 1_24: 1370556150
-      graveyard02_black_white 1_25: 1264945219
-      graveyard02_black_white 1_26: 459517498
-      graveyard02_black_white 1_27: -1517878615
-      graveyard02_black_white 1_28: 1574602047
-      graveyard02_black_white 1_29: 1124675749
-      graveyard02_black_white 1_3: 718693458
-      graveyard02_black_white 1_30: -1715004844
-      graveyard02_black_white 1_31: 1657657838
-      graveyard02_black_white 1_32: 1748974536
-      graveyard02_black_white 1_33: -277917312
-      graveyard02_black_white 1_34: -2046239311
-      graveyard02_black_white 1_35: 205046764
-      graveyard02_black_white 1_36: -1738502396
-      graveyard02_black_white 1_37: -1093402949
-      graveyard02_black_white 1_38: -258995157
-      graveyard02_black_white 1_39: 435368233
-      graveyard02_black_white 1_4: 1023180191
-      graveyard02_black_white 1_40: 1660991704
-      graveyard02_black_white 1_41: -551089188
-      graveyard02_black_white 1_42: 1022265331
-      graveyard02_black_white 1_43: -113650626
-      graveyard02_black_white 1_44: 684745613
-      graveyard02_black_white 1_45: 820549694
-      graveyard02_black_white 1_46: 379493858
-      graveyard02_black_white 1_47: -812011619
-      graveyard02_black_white 1_48: 360686144
-      graveyard02_black_white 1_5: -199369002
-      graveyard02_black_white 1_6: 236779654
-      graveyard02_black_white 1_7: 367391149
-      graveyard02_black_white 1_8: 1505589899
-      graveyard02_black_white 1_9: 828014254
+      graveyard02_black_white_0: -1722392020
+      graveyard02_black_white_1: 935351637
+      graveyard02_black_white_10: -66981837
+      graveyard02_black_white_11: -1827462324
+      graveyard02_black_white_12: 1842216568
+      graveyard02_black_white_13: -1646160805
+      graveyard02_black_white_14: -391056728
+      graveyard02_black_white_15: -1982368343
+      graveyard02_black_white_16: -1830999284
+      graveyard02_black_white_17: -1827971637
+      graveyard02_black_white_18: 1841011971
+      graveyard02_black_white_19: -34392956
+      graveyard02_black_white_2: 1764644231
+      graveyard02_black_white_20: -743490905
+      graveyard02_black_white_21: 1500678776
+      graveyard02_black_white_22: 1691135122
+      graveyard02_black_white_23: -420274086
+      graveyard02_black_white_24: 1537462304
+      graveyard02_black_white_25: 874183428
+      graveyard02_black_white_26: -1287820314
+      graveyard02_black_white_27: -1775763033
+      graveyard02_black_white_28: -2064314490
+      graveyard02_black_white_29: 472525260
+      graveyard02_black_white_3: -1871247924
+      graveyard02_black_white_30: 261165444
+      graveyard02_black_white_31: -630851098
+      graveyard02_black_white_32: -1318962325
+      graveyard02_black_white_33: -1690430997
+      graveyard02_black_white_34: 474793596
+      graveyard02_black_white_35: 941080795
+      graveyard02_black_white_36: 596109685
+      graveyard02_black_white_37: -763457493
+      graveyard02_black_white_38: -1886030269
+      graveyard02_black_white_39: -1971418073
+      graveyard02_black_white_4: -676346706
+      graveyard02_black_white_40: 1775217452
+      graveyard02_black_white_41: 1783259350
+      graveyard02_black_white_42: -484759514
+      graveyard02_black_white_43: 332644036
+      graveyard02_black_white_44: 1400405480
+      graveyard02_black_white_45: -1999801528
+      graveyard02_black_white_46: 2140211296
+      graveyard02_black_white_47: -193195821
+      graveyard02_black_white_48: -556568360
+      graveyard02_black_white_5: -1900589428
+      graveyard02_black_white_6: -363278725
+      graveyard02_black_white_7: 1097976110
+      graveyard02_black_white_8: -1093782234
+      graveyard02_black_white_9: 1860594107
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
