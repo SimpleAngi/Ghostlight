@@ -21461,7 +21461,7 @@ GameObject:
   - component: {fileID: 1581748128}
   - component: {fileID: 1581748127}
   - component: {fileID: 1581748126}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: kiste
   m_TagString: Interactable
   m_Icon: {fileID: 0}
@@ -21500,7 +21500,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.005426377, y: -0.16821682}
+  m_Offset: {x: -0.005426407, y: -0.15071452}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -21511,7 +21511,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.641861, y: 1.6635664}
+  m_Size: {x: 1.641861, y: 1.698571}
   m_EdgeRadius: 0
 --- !u!255 &1581748127
 FixedJoint2D:
@@ -21548,7 +21548,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 3ba6e10ac2daa604aa644b64a3a718f7, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -23589,11 +23589,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6547123111460383931, guid: 091b49bc70943e8488dd73cba6ccdc0e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -75.5
+      value: -112.72
       objectReference: {fileID: 0}
     - target: {fileID: 6547123111460383931, guid: 091b49bc70943e8488dd73cba6ccdc0e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 16.26
+      value: 13.69
       objectReference: {fileID: 0}
     - target: {fileID: 6547123111460383931, guid: 091b49bc70943e8488dd73cba6ccdc0e, type: 3}
       propertyPath: m_LocalPosition.z
