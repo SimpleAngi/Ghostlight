@@ -11,6 +11,7 @@ TagManager:
   - key
   - Interactable
   - end
+  - death
   layers:
   - Default
   - TransparentFX
