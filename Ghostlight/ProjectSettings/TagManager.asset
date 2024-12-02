@@ -12,6 +12,8 @@ TagManager:
   - Interactable
   - end
   - death
+  - Room_C_1
+  - mainCam
   layers:
   - Default
   - TransparentFX
