@@ -132,7 +132,7 @@ FixedJoint2D:
   m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: -106.590004, y: -2.9700012}
+  m_ConnectedAnchor: {x: -39.05401, y: -2.02}
   m_DampingRatio: 0
   m_Frequency: 0
 --- !u!61 &2170047440951822006
