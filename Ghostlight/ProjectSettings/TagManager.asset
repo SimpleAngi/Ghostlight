@@ -15,6 +15,7 @@ TagManager:
   - Room_C_1
   - mainCam
   - Ground
+  - secret
   layers:
   - Default
   - TransparentFX
