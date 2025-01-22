@@ -16,6 +16,7 @@ TagManager:
   - mainCam
   - Ground
   - secret
+  - caveDoor
   layers:
   - Default
   - TransparentFX
