@@ -105,7 +105,7 @@ TextureImporter:
         width: 93
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -126,7 +126,7 @@ TextureImporter:
         width: 93
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,7 +147,7 @@ TextureImporter:
         width: 93
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,7 +168,7 @@ TextureImporter:
         width: 93
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -176,6 +176,27 @@ TextureImporter:
       bones: []
       spriteID: 7d066009d78184e47b411cacc9c4be9b
       internalID: 882470281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a620cc83a9943854db40126f919b9eaa
+      internalID: 913261944
       vertices: []
       indices: 
       edges: []
@@ -195,6 +216,7 @@ TextureImporter:
       npcCat_1: 1368128569
       npcCat_2: 1421406263
       npcCat_3: 882470281
+      pp: 913261944
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
