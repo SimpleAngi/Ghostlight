@@ -18,9 +18,21 @@ EditorBuildSettings:
     path: Assets/Scenes/graveyard.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
+    path: Assets/Scenes/Cutscene01.unity
+    guid: b29b3bad05b5e0f4b821ac333a2f8ecf
+  - enabled: 1
     path: Assets/Scenes/forest.unity
     guid: d8510a1b5a146df4abd2b90539af9583
   - enabled: 1
+    path: Assets/Scenes/Cutscene02.unity
+    guid: 45b8bd4d946d6f14f86d00abc84b6838
+  - enabled: 1
     path: Assets/Scenes/cave.unity
     guid: ff10e4c79aee22747abc2b2cc647de0e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene03.unity
+    guid: 79b965c6e20ac174abf070e93003a24f
+  - enabled: 1
+    path: Assets/Scenes/CutsceneEND/CutsceneEND01.unity
+    guid: a024a86a59175024aa0270ea9a85dd1b
   m_configObjects: {}
