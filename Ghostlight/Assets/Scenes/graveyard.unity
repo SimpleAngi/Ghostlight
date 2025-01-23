@@ -15365,10 +15365,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Main Camera
       objectReference: {fileID: 0}
-    - target: {fileID: 7112786856970361457, guid: a811a90ef062cb145b80648bafedc317, type: 3}
-      propertyPath: OutputAudioMixerGroup
-      value: 
-      objectReference: {fileID: 9136454680073771525, guid: 572d0fbc9c7679f44a21c7d108473392, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
