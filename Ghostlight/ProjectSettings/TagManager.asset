@@ -17,6 +17,8 @@ TagManager:
   - Ground
   - secret
   - caveDoor
+  - EasterIN
+  - EasterOUT
   layers:
   - Default
   - TransparentFX
