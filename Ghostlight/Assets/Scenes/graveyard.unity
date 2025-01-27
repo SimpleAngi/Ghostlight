@@ -63021,10 +63021,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1017278041796793694, guid: 756cb7e39ea07c04eac6203c6f74880b, type: 3}
       propertyPath: m_text
-      value: 'WHAT!? But i dont even konw why Im dead and how I lifed.
+      value: 'WHAT!? But i dont even konw why Im dead and how I lived.
 
         Pls
-        I need to know how my life was.'
+        I need to know how my live was.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2071286563827856943, guid: 756cb7e39ea07c04eac6203c6f74880b, type: 3}
+      propertyPath: m_text
+      value: Befor you go, you need the Key for the gates. They are in the building
+        on my left. I will wait here for you.
       objectReference: {fileID: 0}
     - target: {fileID: 5681442308783150875, guid: 756cb7e39ea07c04eac6203c6f74880b, type: 3}
       propertyPath: m_Pivot.x
