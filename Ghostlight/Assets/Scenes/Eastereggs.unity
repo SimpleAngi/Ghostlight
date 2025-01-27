@@ -1166,7 +1166,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.04, y: -1.153}
+  m_AnchoredPosition: {x: 0.01, y: -1.153}
   m_SizeDelta: {x: 4.57, y: 2.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &906561236
@@ -1189,9 +1189,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Kyo
-
-    A Dragons Tale'
+  m_text: Reapers Journey
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9bcd5dc9c6c5b3346b2bffd2c6fcbe95, type: 2}
   m_sharedMaterial: {fileID: -4736839267003785529, guid: 9bcd5dc9c6c5b3346b2bffd2c6fcbe95, type: 2}
@@ -1516,12 +1514,12 @@ AudioSource:
   m_GameObject: {fileID: 1119728748}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 9136454680073771525, guid: 572d0fbc9c7679f44a21c7d108473392, type: 2}
+  m_audioClip: {fileID: 8300000, guid: d8be73b3e905f344ca9e1ec0de9c755f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
