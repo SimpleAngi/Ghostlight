@@ -12551,11 +12551,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!1 &1581748125 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2756982883400228086, guid: feb4cb47bb309a249b5bf2bc55ed9d10, type: 3}
-  m_PrefabInstance: {fileID: 5909026768352781215}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1581748130 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1304051848737183800, guid: feb4cb47bb309a249b5bf2bc55ed9d10, type: 3}
@@ -64000,10 +63995,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7777557275319405849, guid: f4d029bba402dc04fab1a7a64ce5450b, type: 3}
-      propertyPath: _data._objectReferences.Array.data[2]
-      value: 
-      objectReference: {fileID: 1581748125}
     - target: {fileID: 8803936928969845787, guid: f4d029bba402dc04fab1a7a64ce5450b, type: 3}
       propertyPath: m_Name
       value: Player
