@@ -4376,7 +4376,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Opton
+  m_text: Option
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9bcd5dc9c6c5b3346b2bffd2c6fcbe95, type: 2}
   m_sharedMaterial: {fileID: -4736839267003785529, guid: 9bcd5dc9c6c5b3346b2bffd2c6fcbe95, type: 2}
