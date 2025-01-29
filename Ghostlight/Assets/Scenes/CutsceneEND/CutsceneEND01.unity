@@ -331,7 +331,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: You are my twin sister Clair!
+  m_text: You are my twin sister, Clair!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9bcd5dc9c6c5b3346b2bffd2c6fcbe95, type: 2}
   m_sharedMaterial: {fileID: -4736839267003785529, guid: 9bcd5dc9c6c5b3346b2bffd2c6fcbe95, type: 2}
@@ -954,7 +954,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: You killed me. Whyy.. I loved YOU!!!!
+  m_text: You killed me... Why? I loved YOU!!!!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9bcd5dc9c6c5b3346b2bffd2c6fcbe95, type: 2}
   m_sharedMaterial: {fileID: -4736839267003785529, guid: 9bcd5dc9c6c5b3346b2bffd2c6fcbe95, type: 2}
@@ -1802,7 +1802,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Hmm whos there?
+  m_text: Hmm, who's there?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9bcd5dc9c6c5b3346b2bffd2c6fcbe95, type: 2}
   m_sharedMaterial: {fileID: -4736839267003785529, guid: 9bcd5dc9c6c5b3346b2bffd2c6fcbe95, type: 2}
