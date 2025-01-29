@@ -63016,10 +63016,8 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1017278041796793694, guid: 756cb7e39ea07c04eac6203c6f74880b, type: 3}
       propertyPath: m_text
-      value: 'WHAT!? But i dont even konw why Im dead and how I lived.
-
-        Pls
-        I need to know how my live was.'
+      value: "WHAT!? But I don\u2019t even know why I\u2019m dead or how I lived.\nPlease,
+        I need to know what my life was like."
       objectReference: {fileID: 0}
     - target: {fileID: 2071286563827856943, guid: 756cb7e39ea07c04eac6203c6f74880b, type: 3}
       propertyPath: m_text
