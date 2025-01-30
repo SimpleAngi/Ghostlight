@@ -83383,7 +83383,7 @@ PrefabInstance:
     - target: {fileID: 2071286563827856943, guid: 756cb7e39ea07c04eac6203c6f74880b, type: 3}
       propertyPath: m_text
       value: Before you leave, you must get the key to the gates. You'll find it
-        in the building to my left. I'llbe waiting here.
+        in the building to my left. I'll be waiting here.
       objectReference: {fileID: 0}
     - target: {fileID: 2328928177008053226, guid: 756cb7e39ea07c04eac6203c6f74880b, type: 3}
       propertyPath: m_IsActive
